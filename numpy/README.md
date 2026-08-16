@@ -17,3 +17,17 @@ Introduces NumPy arrays and their fundamental properties.
 - `.ndim`
 - `.size`
 - `.dtype`
+---
+## 3. NumPy Statistics
+
+Demonstrates statistical operations using NumPy for basic data analysis.
+
+### Concepts Covered
+
+- Mean
+- Median
+- Variance
+- Standard Deviation
+- Minimum and Maximum
+- Percentiles
+- Statistical Data Analysis
