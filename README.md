@@ -18,3 +18,24 @@ Introduces Pandas Series and DataFrames for working with structured and tabular 
 - Column Names
 
 - ---
+## 5. Data Cleaning
+
+Demonstrates common Pandas techniques for preparing raw data for analysis and machine learning.
+
+### Concepts Covered
+
+- Missing Value Detection
+- Missing Value Handling
+- Duplicate Removal
+- Data Type Conversion
+- Data Cleaning
+- Data Preprocessing
+
+### Pandas Methods
+
+- `isnull()`
+- `fillna()`
+- `dropna()`
+- `drop_duplicates()`
+- `astype()`
+- `replace()`
