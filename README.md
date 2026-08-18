@@ -39,3 +39,25 @@ Demonstrates common Pandas techniques for preparing raw data for analysis and ma
 - `drop_duplicates()`
 - `astype()`
 - `replace()`
+- ---
+## 6. Data Analysis
+
+Demonstrates practical Pandas operations for analyzing structured datasets.
+
+### Concepts Covered
+
+- Data Filtering
+- Data Sorting
+- Grouping and Aggregation
+- Frequency Analysis
+- Statistical Summary
+- Basic Data Insights
+
+### Pandas Methods
+
+- `sort_values()`
+- `groupby()`
+- `mean()`
+- `max()`
+- `value_counts()`
+- `describe()`
