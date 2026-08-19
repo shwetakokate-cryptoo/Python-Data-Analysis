@@ -61,3 +61,26 @@ Demonstrates practical Pandas operations for analyzing structured datasets.
 - `max()`
 - `value_counts()`
 - `describe()`
+- ---
+## 7. Matplotlib Visualization
+
+Introduces data visualization using Matplotlib to identify trends and patterns in datasets.
+
+### Concepts Covered
+
+- Line Charts
+- Figure Creation
+- Chart Titles
+- Axis Labels
+- Grid
+- Data Visualization
+
+### Matplotlib Functions
+
+- `plt.figure()`
+- `plt.plot()`
+- `plt.title()`
+- `plt.xlabel()`
+- `plt.ylabel()`
+- `plt.grid()`
+- `plt.show()`
